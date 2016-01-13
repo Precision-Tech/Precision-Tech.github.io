@@ -7,6 +7,11 @@ email: mgazzara@precision-tech-llc.com
 description: "Fabrication machine shop services hammonton nj new jersey all metals welding"
 google_analytics_id: UA-72318604-1
 
+# Postal address (add as many lines as necessary)
+address:
+  - line: 931 8th Street
+  - line: Hammonton, NJ 08037
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-old: fed136
@@ -18,14 +23,9 @@ color:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url:
+    url: #
   - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 931 8th Street
-  - line: Hammonton, NJ 08037
+    url: http://github.com/precision-tech
 
 # Build settings
 markdown: kramdown
