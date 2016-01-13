@@ -1,4 +1,4 @@
-url: https://precision-tech.github.io
+url: http://precision-tech-llc.com
 baseurl: ""
 
 # Site settings
@@ -15,58 +15,17 @@ color:
   secondary: ffad33
   secondary-dark: 333
 
-# Team names, titles and social links
-people:
-- name: Larry
-  pic: 1
-  position: Lead Joker
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Moe
-  pic: 2
-  position: Lead Time-Waster
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Curly
-  pic: 3
-  position: Lead Beer Drinker
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 931 8th Street
+  - line: Hammonton, NJ 08037
 
 # Build settings
 markdown: kramdown

@@ -429,6 +429,7 @@ section h3.section-subheading {
     }
 }
 
+/*
 .timeline {
     position: relative;
     padding: 0;
@@ -652,6 +653,7 @@ section h3.section-subheading {
 aside.clients img {
     margin: 50px auto;
 }
+*/
 
 section#contact {
     background-color: #222;
