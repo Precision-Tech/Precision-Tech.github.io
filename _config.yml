@@ -1,10 +1,11 @@
+# Site settings
 url: http://precision-tech-llc.com
 baseurl: ""
-
-# Site settings
 title: Precision Tech LLC
 email: mgazzara@precision-tech-llc.com
-description: "Fabrication machine shop services hammonton nj new jersey all metals welding"
+description: "Precision Tech is a fabrication machine shop in Hammonton, New Jersey. We also have certified welders, providing welding services for all metals"
+
+# Google Analytics ID
 google_analytics_id: UA-72318604-1
 
 # Postal address (add as many lines as necessary)
@@ -14,16 +15,15 @@ address:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-old: fed136
-  primary: FF8C00
-  secondary-old: fec503
+  primary: ff8c00
   secondary: ffad33
   secondary-dark: 333
+  services-icons: d9d9d9
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url: #
+#  - title: facebook
+#    url: #
   - title: github
     url: http://github.com/precision-tech
 
