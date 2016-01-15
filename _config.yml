@@ -15,7 +15,7 @@ address:
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-old: fed136
-  primary: ff9900
+  primary: FF8C00
   secondary-old: fec503
   secondary: ffad33
   secondary-dark: 333
