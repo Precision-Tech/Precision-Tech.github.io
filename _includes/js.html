@@ -12,6 +12,10 @@
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/shop.js" | prepend: site.baseurl }}"></script>
 
+    <!-- Google Maps -->
+    <script src="{{ "js/maps.js" | prepend: site.baseurl }}"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google_maps_key }}&callback=initMap"></script>
+
     <!-- Google Analytics -->
 <!--
     <script>

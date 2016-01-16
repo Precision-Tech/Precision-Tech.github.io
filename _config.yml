@@ -3,14 +3,20 @@ url: http://precision-tech-llc.com
 baseurl: ""
 title: Precision Tech LLC
 email: mgazzara@precision-tech-llc.com
-description: "Precision Tech is a fabrication machine shop in Hammonton, New Jersey. We also have certified welders, providing welding services for all metals"
+description: "Precision Tech is a fabrication machine shop in Hammonton, New Jersey. We also have certified welders providing welding services for all metals"
 
 # Google Analytics ID
 google_analytics_id: UA-72318604-1
 
-# Postal address (add as many lines as necessary)
+# Google Maps
+google_maps_key: AIzaSyD6oIMwZGUllZf-P1zlIcSRmqPDSQQVkYM
+google_maps_directions: https://goo.gl/maps/vqxWEuFFWM52
+
+#Contact Information
+phone: 888-320-2629
+email: mgazzara@precision-tech-llc.com
 address:
-  - line: 931 8th Street
+  - line: 931 8<sup>th</sup> Street
   - line: Hammonton, NJ 08037
 
 # Color settings (hex-codes without the leading hash-tag)
