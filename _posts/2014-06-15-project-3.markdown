@@ -1,6 +1,6 @@
 ---
 title: Window
-subtitle: Architecture
+subtitle: Architecture Fabrication
 layout: default
 modal-id: 3
 date: 2014-06-15
@@ -9,7 +9,7 @@ thumbnail: window-thumbnail.jpg
 alt: Window
 project-date: September 2014
 client: TBA
-category: Architecture
+category: Architecture Fabrication
 description: Coming Soon!
 
 ---
