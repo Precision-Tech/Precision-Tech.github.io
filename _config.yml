@@ -13,7 +13,11 @@ google_maps_key: AIzaSyD6oIMwZGUllZf-P1zlIcSRmqPDSQQVkYM
 google_maps_directions: https://goo.gl/maps/vqxWEuFFWM52
 
 #Contact Information
-phone: 609-481-2717
+phone:
+  - number: 609-481-2717
+    description: Office
+  - number: 888-320-2629
+    description: Toll Free
 email: mgazzara@precision-tech-llc.com
 address:
   - line: 931 8<sup>th</sup> Street
