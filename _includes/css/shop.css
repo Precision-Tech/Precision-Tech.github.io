@@ -691,7 +691,13 @@ section#contact a:hover {
 }
 
 section#contact #map {
-    height: 350px;
+    height: 250px;
+}
+
+@media(min-width:768px) {
+    section#contact #map {
+        height: 425px;
+    }
 }
 
 /*

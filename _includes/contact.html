@@ -7,7 +7,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-4">
+                <div class="col-md-4">
                     <h3 class="contact-heading"><i class="fa fa-cogs fa-flip-horizontal fa-fw"></i> Precision-Tech</h3> 
                     <p>{% for numbers in site.phone %}{% if forloop.first %}<i class="fa fa-phone fa-lg fa-fw contact-icon"></i> <a href="tel:{{ numbers.number }}">{{ numbers.number }}</a> {{ numbers.description }}{% else %}                       <i class="fa fa-phone fa-lg fa-fw contact-icon-hidden"></i> <a href="tel:{{ numbers.number }}">{{ numbers.number }}</a> {{ numbers.description }}{% endif %}{% unless forloop.last %}<br>
 {% endunless %}{% endfor %}</p>
@@ -15,7 +15,7 @@
                     <p><i class="fa fa-map-marker fa-lg fa-fw contact-icon"></i><a href="{{ site.google_maps_directions }}" target="_blank">{% for lines in site.address %} {{ lines.line }}{% unless forloop.last %}<br>
                        <i class="fa fa-map-marker fa-lg fa-fw contact-icon-hidden"></i>{% endunless %}{% endfor %}</a></p>
                 </div>
-                <div class="col-sm-8" id="map">
+                <div class="col-md-8" id="map">
                 </div>
             </div>
         </div>
