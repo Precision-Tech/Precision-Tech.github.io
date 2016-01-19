@@ -681,6 +681,10 @@ section#contact a:link {
     text-decoration:none;
 }
 
+section#contact a:visited {
+    color: #000;
+}
+
 section#contact a:hover {
     color: #{{ site.color.secondary }};
     text-decoration:none;
