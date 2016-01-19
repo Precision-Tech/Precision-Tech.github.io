@@ -19,7 +19,8 @@ function initMap() {
   if (useragent.indexOf('iPhone') != -1 || useragent.indexOf('Android') != -1 ) {
     map.setOptions({
       draggable: false,
-      disableDefaultUI: true
+      disableDefaultUI: true,
+      disableDoubleClickZoom: true
     });
   }
 }

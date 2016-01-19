@@ -690,6 +690,10 @@ section#contact a:hover {
     text-decoration:none;
 }
 
+section#contact a:active {
+    color: #000;
+}
+
 section#contact #map {
     height: 250px;
 }
