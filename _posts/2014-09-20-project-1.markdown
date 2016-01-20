@@ -1,6 +1,6 @@
 ---
-title: Part
-subtitle: Machining
+title: Machining
+subtitle:
 layout: default
 modal-id: 1
 date: 2014-09-20

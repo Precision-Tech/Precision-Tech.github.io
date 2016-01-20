@@ -359,6 +359,19 @@ section h3.section-subheading {
     margin: 0 0 15px;
 }
 
+#portfolio .portfolio-item-hidden {
+    display: none;
+}
+
+@media(min-width:1200px) {
+    #portfolio .portfolio-item-hidden {
+        right: 0;
+        margin: 0 0 15px;
+        visibility: hidden;
+        display: block;
+    }
+}
+
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;

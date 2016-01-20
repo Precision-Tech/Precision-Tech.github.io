@@ -1,6 +1,6 @@
 ---
-title: Window
-subtitle: Architectural Fabrication
+title: Architectural Fabrication
+subtitle:
 layout: default
 modal-id: 3
 date: 2014-06-15
