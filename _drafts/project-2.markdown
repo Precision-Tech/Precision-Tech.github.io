@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Equipment Fabrication
+subtitle:
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
+date: 2014-07-18
+img: roll-wrapper.jpg
+thumbnail: roll-wrapper-thumbnail.png
+alt: Roll Wrapper
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: TBA
+category: Equipment Fabrication
+description: Coming Soon!
 
 ---

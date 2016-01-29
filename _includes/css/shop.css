@@ -850,7 +850,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content h2 {
     margin-top: 5px;
     margin-bottom: 5px;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .portfolio-modal .modal-content hr {
@@ -874,8 +874,19 @@ ul.social-buttons li a:active {
     margin-bottom: 10px;
 }
 
-.portfolio-modal .modal-content img {
+.portfolio-modal .modal-content .carousel {
     margin-bottom: 10px;
+}
+
+.portfolio-modal .modal-content .carousel h3 {
+    text-transform: none;
+    margin: 0;
+}
+
+.portfolio-modal .modal-content .carousel-control .fa {
+    position: absolute;
+    top: 50%;
+    display: inline-block;
 }
 
 .portfolio-modal .close-modal {

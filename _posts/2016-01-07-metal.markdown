@@ -1,0 +1,47 @@
+---
+title: Metal Fabrication
+subtitle:
+modal-id: 4
+date: 2016-01-07
+category: Metal Fabrication
+imgdir: metal
+thumbnail: metal-thumbnail.jpg
+thumbnail-alt: Metal step for crane
+images:
+  - image: truck-bed.jpg
+    alt: Custom truck bed
+    heading:
+    description:
+  - image: pizza-display.jpg
+    alt: Custom pizza display case
+    heading:
+    description:
+  - image: stainless-steel-roller-table.jpg
+    alt: Custom fabricated stainless steel table with rollers
+    heading:
+    description:
+  - image: stainless-steel-bucket.jpg
+    alt: Custom fabricated stainless steel tank
+    heading:
+    description:
+  - image: step-on-crane.jpg
+    alt: Custom fabricated side step rack for crane
+    heading:
+    description:
+  - image: tailgate.jpg
+    alt: Custom fabricated truck tailgate
+    heading:
+    description:
+  - image: heater.jpg
+    alt: Glass heater
+    heading:
+    description:
+  - image: penthousedoor.jpg
+    alt: Custom fabricated door for a pent house
+    heading:
+    description:
+  - image: stainless-steel-grate.jpg
+    alt: Custom fabricated stainless steel grate
+    heading:
+    description:
+---

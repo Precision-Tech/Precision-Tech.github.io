@@ -1,0 +1,39 @@
+---
+title: Welding
+subtitle:
+modal-id: 5
+date: 2016-01-06
+category: Welding
+imgdir: welding
+thumbnail: welding-thumbnail.jpg
+thumbnail-alt: Welding an aluminium dump truck bed 
+images:
+  - image: bucket.jpg
+    alt: Welding a bucket on a bulldozer
+    heading:
+    description:
+  - image: dump-truck.jpg
+    alt: Welding an aluminium dump truck bed
+    heading:
+    description:
+  - image: dump-truck-tailgate.jpg
+    alt: Welding an aluminium dump truck tailgate
+    heading:
+    description:
+  - image: dump-truck-tailgate-2.jpg
+    alt: Welding an aluminium dump truck tailgate
+    heading:
+    description:
+  - image: hotel-57-porch.jpg
+    alt: Welding on the porch for hotel 57 in NYC
+    heading:
+    description:
+  - image: hotel-57-porch-mount-1.jpg
+    alt: Welding on the porch for hotel 57 in NYC
+    heading:
+    description:
+  - image: hotel-57-porch-mount-2.jpg
+    alt: Welding on the porch for hotel 57 in NYC
+    heading:
+    description:
+---
