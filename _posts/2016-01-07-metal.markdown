@@ -8,12 +8,36 @@ imgdir: metal
 thumbnail: metal-thumbnail.jpg
 thumbnail-alt: Metal step for crane
 images:
+  - image: wine-rack.jpg
+    alt: Custom fabricated wine rack and ladder 
+    heading:
+    description:
+  - image: wine-rack-2.jpg
+    alt: Custom fabricated wine rack and ladder 
+    heading:
+    description:
   - image: truck-bed.jpg
     alt: Custom truck bed
     heading:
     description:
+  - image: truck-bed-2.jpg
+    alt: Custom truck bed
+    heading:
+    description:
+  - image: truck-flatbed-honey-pattern.jpg
+    alt: Custom truck flatbed with honey pattern
+    heading:
+    description:
+  - image: honey-pattern.jpg
+    alt: Custom honey pattern on back of flatbed
+    heading:
+    description:
   - image: pizza-display.jpg
     alt: Custom pizza display case
+    heading:
+    description:
+  - image: stainless-steel-electrical-panel.jpg
+    alt: Custom fabricated stainless steel electrical panel
     heading:
     description:
   - image: stainless-steel-roller-table.jpg
@@ -24,8 +48,16 @@ images:
     alt: Custom fabricated stainless steel tank
     heading:
     description:
+  - image: stainless-steel-belt-cover.jpg
+    alt: Custom fabricated stainless steel belt cover on lathe
+    heading:
+    description:
   - image: step-on-crane.jpg
     alt: Custom fabricated side step rack for crane
+    heading:
+    description:
+  - image: bucket.jpg
+    alt: Custom fabricated for trailer hitch
     heading:
     description:
   - image: tailgate.jpg
@@ -38,6 +70,14 @@ images:
     description:
   - image: penthousedoor.jpg
     alt: Custom fabricated door for a pent house
+    heading:
+    description:
+  - image: bike-frame.jpg
+    alt: Custom fabricated bike frame for a Harley
+    heading:
+    description:
+  - image: ig-logo.jpg
+    alt: Custom logo fabricated from metal
     heading:
     description:
   - image: stainless-steel-grate.jpg
