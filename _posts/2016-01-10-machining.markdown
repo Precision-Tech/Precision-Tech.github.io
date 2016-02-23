@@ -12,6 +12,10 @@ images:
     alt: 6" cable clamp
     heading: 
     description: 6" cable clamps
+  - image: cable-clamp-in-mill.jpg
+    alt: 6" cable clamp in the CNC milling machine
+    heading: 
+    description: 6" cable clamps
   - image: covers.jpg
     alt: Covers for the vs-1 window system
     heading: 
@@ -24,12 +28,24 @@ images:
     alt: Stainless steel shafts
     heading: 
     description:
+  - image: shafts-2.jpg
+    alt: Steel shafts
+    heading: 
+    description:
   - image: spanner-wrench.jpg
     alt: Spanner Wrench
     heading: 
     description:
   - image: stainless-steel-housing-and-shaft.jpg
     alt: Stainless steel housing and shaft
+    heading: 
+    description:
+  - image: security-nuts.jpg
+    alt: security nuts for the vs-1 system
+    heading: 
+    description:
+  - image: security-nuts-wrench.jpg
+    alt: Custom wrench for security nuts
     heading: 
     description:
   - image: vs-1-window-clamps.jpg
@@ -42,6 +58,18 @@ images:
     description:
   - image: vs-1-window-clamps-3.jpg
     alt: Window clamps for the vs-1 system
+    heading: 
+    description:
+  - image: vs-1-mounts.jpg
+    alt: Window mounts for the vs-1 system
+    heading: 
+    description:
+  - image: vs-1-mounts-2.jpg
+    alt: Window mounts for the vs-1 system
+    heading: 
+    description:
+  - image: washers.jpg
+    alt: Custom machined washers
     heading: 
     description:
 ---
